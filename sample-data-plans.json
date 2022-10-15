@@ -1,0 +1,111 @@
+{
+	"statusCode": "00",
+	"statusDescription": "successful",
+	"serviceId": "D02D",
+	"dataPlan": [
+		{
+			"amount": 50,
+			"databundle": "25MB",
+			"validity": "1day",
+			"productId": "9MO-25MB-15"
+		},
+		{
+			"amount": 100,
+			"databundle": "100MB",
+			"validity": "1day",
+			"productId": "9MO-100MB-1"
+		},
+		{
+			"amount": 200,
+			"databundle": "650MB",
+			"validity": "1day",
+			"productId": "9MO-650MB-2"
+		},
+		{
+			"amount": 1000,
+			"data bundle": "1GB",
+			"validity": "30days",
+			"productId": "9MO-1GB-3"
+
+		},
+		{
+			"amount": 1200,
+			"databundle": "1.5GB",
+			"validity": "30days",
+			"productId": "9MO-1.5GB-4"
+		},
+		{
+			"amount": 1500,
+			"databundle": "7GB",
+			"validity": "7days",
+			"productId": "9MO-7GB-16"
+		},
+		{
+			"amount": 2000,
+			"databundle": "4.5GB",
+			"validity": "30days",
+			"productId": "9MO-4.5GB-5"
+
+		},
+		{
+			"amount": 3000,
+			"databundle": "4GB",
+			"validity": "30days",
+			"productId": "9MO-4GB-6"
+		},
+		{
+			"amount": 4000,
+			"databundle": "5.5GB",
+			"validity": "30days",
+			"productId": "9MO-5.5GB-7"
+
+		},
+		{
+			"amount": 8000,
+			"databundle": "11.5GB",
+			"validity": "30days",
+
+			"productId": "9MO-11.5GB-8"
+		},
+		{
+			"amount": 10000,
+			"databundle": "15GB",
+			"validity": "30days,",
+			"productId": "9MO-15GB-9"
+
+		},
+		{
+			"amount": 18000,
+			"databundle": "27.5GB",
+			"validity": "30days",
+			"productId": "9MO-27.5GB-10"
+		},
+		{
+			"amount": 27500,
+			"databundle": "30GB",
+			"validity": "90days",
+			"productId": "9MO-30GB-11"
+
+		},
+		{
+			"amount": 55000,
+			"databundle": "60GB",
+			"validity": "180days",
+			"productId": "9MO-60GB-12"
+		},
+		{
+			"amount": 84992,
+			"databundle": "100GB",
+			"validity": "100days",
+			"productId": "9MO-100GB-13"
+
+		},
+		{
+
+			"amount": 110000,
+			"databundle": "120GB",
+			"validity": "365days",
+			"productId": "9MO-120GB-14"
+		}
+	]
+}
